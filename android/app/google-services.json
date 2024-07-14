@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310225592015",
+    "project_id": "pcostestsystem",
+    "storage_bucket": "pcostestsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310225592015:android:35957d3a53a03d9acde1ba",
+        "android_client_info": {
+          "package_name": "com.mycompany.pcossystemfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCbOyErU3lYkVBHO0f3GGiX1msL-k5HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
